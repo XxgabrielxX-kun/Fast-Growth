@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WIW",
+    "IAI",
+    "WIW"
+  ],
+  "key": {
+    "W": { "item": "minecraft:white_wool" },
+    "I": { "item": "minecraft:iron_ingot" },
+    "A": { "item": "minecraft:amethyst_shard" }
+  },
+  "result": { "item": "fastgrowth:particle_inhibitor", "count": 1 }
+}

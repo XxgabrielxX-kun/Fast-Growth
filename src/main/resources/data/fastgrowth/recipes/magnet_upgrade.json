@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IEI",
+    "RHR",
+    "IEI"
+  ],
+  "key": {
+    "I": { "item": "minecraft:iron_ingot" },
+    "E": { "item": "minecraft:ender_pearl" },
+    "R": { "item": "minecraft:redstone_block" },
+    "H": { "item": "minecraft:hopper" }
+  },
+  "result": { "item": "fastgrowth:magnet_upgrade", "count": 1 }
+}

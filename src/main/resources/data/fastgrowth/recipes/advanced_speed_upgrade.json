@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DND",
+    "BUB",
+    "DED"
+  ],
+  "key": {
+    "D": { "item": "minecraft:diamond" },
+    "N": { "item": "minecraft:netherite_ingot" },
+    "B": { "item": "minecraft:bone_block" },
+    "U": { "item": "fastgrowth:speed_upgrade" },
+    "E": { "item": "minecraft:emerald_block" }
+  },
+  "result": { "item": "fastgrowth:advanced_speed_upgrade", "count": 1 }
+}

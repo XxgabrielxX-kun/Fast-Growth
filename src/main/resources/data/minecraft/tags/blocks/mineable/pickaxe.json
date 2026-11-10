@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "fastgrowth:growth_accelerator",
+    "fastgrowth:advanced_growth_accelerator",
+    "fastgrowth:plant_harvester",
+    "fastgrowth:advanced_plant_harvester"
+  ]
+}

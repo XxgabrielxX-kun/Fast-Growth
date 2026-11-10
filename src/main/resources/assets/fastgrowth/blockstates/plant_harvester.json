@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "fastgrowth:block/plant_harvester" }
+  }
+}

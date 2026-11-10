@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DSD",
+    "LUL",
+    "DED"
+  ],
+  "key": {
+    "D": { "item": "minecraft:diamond" },
+    "S": { "item": "minecraft:netherite_scrap" },
+    "L": { "item": "minecraft:lapis_block" },
+    "U": { "item": "fastgrowth:range_upgrade" },
+    "E": { "item": "minecraft:echo_shard" }
+  },
+  "result": { "item": "fastgrowth:advanced_range_upgrade", "count": 1 }
+}

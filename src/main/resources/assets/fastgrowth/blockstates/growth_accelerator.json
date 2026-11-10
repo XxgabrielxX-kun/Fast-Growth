@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "fastgrowth:block/growth_accelerator" }
+  }
+}

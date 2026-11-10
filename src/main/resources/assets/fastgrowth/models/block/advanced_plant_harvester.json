@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "fastgrowth:block/advanced_plant_harvester"
+  }
+}

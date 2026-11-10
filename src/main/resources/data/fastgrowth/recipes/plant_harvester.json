@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IHI",
+    "DPD",
+    "IRI"
+  ],
+  "key": {
+    "I": { "item": "minecraft:iron_ingot" },
+    "H": { "item": "minecraft:diamond_hoe" },
+    "D": { "item": "minecraft:diamond" },
+    "P": { "item": "minecraft:piston" },
+    "R": { "item": "minecraft:redstone_block" }
+  },
+  "result": { "item": "fastgrowth:plant_harvester", "count": 1 }
+}

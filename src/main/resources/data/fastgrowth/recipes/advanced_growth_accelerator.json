@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "NDN",
+    "EAE",
+    "DSD"
+  ],
+  "key": {
+    "N": { "item": "minecraft:netherite_ingot" },
+    "D": { "item": "minecraft:diamond_block" },
+    "E": { "item": "minecraft:emerald_block" },
+    "A": { "item": "fastgrowth:growth_accelerator" },
+    "S": { "item": "minecraft:nether_star" }
+  },
+  "result": { "item": "fastgrowth:advanced_growth_accelerator", "count": 1 }
+}

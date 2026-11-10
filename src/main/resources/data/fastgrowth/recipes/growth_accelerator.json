@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DBD",
+    "CEC",
+    "IRI"
+  ],
+  "key": {
+    "D": { "item": "minecraft:diamond" },
+    "B": { "item": "minecraft:bone_block" },
+    "C": { "item": "minecraft:golden_carrot" },
+    "E": { "item": "minecraft:emerald_block" },
+    "I": { "item": "minecraft:iron_ingot" },
+    "R": { "item": "minecraft:redstone_block" }
+  },
+  "result": { "item": "fastgrowth:growth_accelerator", "count": 1 }
+}
